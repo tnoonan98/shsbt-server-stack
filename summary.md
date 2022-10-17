@@ -1,4 +1,4 @@
-# IP Congig
+# IP Config
 
 - IDRAC - 172.17.26.x/19
 - Hypervisor 172.17.25.x/19
