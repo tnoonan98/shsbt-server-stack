@@ -11,7 +11,7 @@
 2. Server - Matt (32GB)
 3. Server - Mark (4GB) - Unused
 4. Server - Mitch (48GB)
-5. Server - Cheyne (32GB
+5. Server - Cheyne (32GB)
 6. Server - Ty (48GB)
 
 # Task Completed
