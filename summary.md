@@ -4,7 +4,7 @@
 - Hypervisor 172.17.25.x/19
 - Default Gateway - 172.17.0.1
 - DNS Server - 172.17.0.51
-- Vcenter - 172.17.25.100
+- vCenter - 172.17.25.100
 
 # Server List 
 
