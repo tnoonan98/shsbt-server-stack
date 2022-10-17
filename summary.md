@@ -7,7 +7,7 @@
 
 # Server List 
 
-1. Server - Doug  (?)
+1. Server - Doug  (36GB)
 2. Server - Matt (32GB)
 3. Server - Mark (4GB) - Unused
 4. Server - Mitch (48GB)
