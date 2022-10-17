@@ -5,6 +5,7 @@
 - Default Gateway - 172.17.0.1
 - DNS Server - 172.17.0.51
 - vCenter - 172.17.25.100
+- Subent - 172.17.0.0/19 - 172.17.31.255
 
 # Server List 
 
