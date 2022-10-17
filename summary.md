@@ -24,3 +24,7 @@
 # Improvements
 
 -  Complete this on your own
+
+# VR Naming Convention
+
+-WinDoug, LinuxTy
